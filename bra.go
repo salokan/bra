@@ -21,7 +21,7 @@ import (
 	"github.com/unknwon/log"
 	"github.com/urfave/cli"
 
-	"github.com/unknwon/bra/cmd"
+	"github.com/salokan/bra/cmd"
 )
 
 const version = "0.4.3.1020"

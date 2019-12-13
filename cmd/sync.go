@@ -27,7 +27,7 @@ import (
 	"github.com/urfave/cli"
 	"gopkg.in/fsnotify/fsnotify.v1"
 
-	"github.com/unknwon/bra/internal/setting"
+	"github.com/salokan/bra/internal/setting"
 )
 
 var Sync = cli.Command{
